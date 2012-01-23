@@ -28,8 +28,9 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 735 - Fucking IE
     - 736 - Fucking Race Conditions
     - 737 - FuckThreadsing
-    - 738 - Fucking Bundler
-    - 739 - Fucking Windows
+    - 738 - Fuck G.I.L.
+    - 739 - Fucking Bundler
+    - 740 - Fucking Windows
   * 74X - Meme Driven
     - 741 - Compiling
     - 742 - A kitten dies
